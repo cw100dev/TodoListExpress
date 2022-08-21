@@ -1,2 +1,2 @@
-# TodoListExpress
-Class44and5 todo list
+npm install
+add DB_STRING to .env file
